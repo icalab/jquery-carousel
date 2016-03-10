@@ -1,0 +1,20 @@
+.image-carousel .prev-button,
+.image-carousel .next-button {
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+.image-carousel .images {
+    border: 1px solid #aaa;
+    padding: 5px;
+    border-radius: 5px;
+}
+.image-carousel .preview {
+  cursor: pointer;
+}
+.image-carousel .preview img {
+  display: block;
+  float: none;
+  margin: auto;
+}
