@@ -1,3 +1,7 @@
+.image-carousel,
+.image-carousel div {
+    box-sizing: border-box;
+}
 .image-carousel .prev-button,
 .image-carousel .next-button {
     font-size: 23px;
